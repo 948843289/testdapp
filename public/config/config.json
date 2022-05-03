@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3E130A7BE76C6aE7c853574bfdF9A71900B16a69",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3e130a7be76c6ae7c853574bfdf9a71900b16a69",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "TestEye",
+  "SYMBOL": "TE",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testeye-llj",
+  "SHOW_BACKGROUND": true
+}
